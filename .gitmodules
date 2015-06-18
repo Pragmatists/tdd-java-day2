@@ -1,0 +1,6 @@
+[submodule "employee-refactoring-kata"]
+	path = employee-refactoring-kata
+	url = https://github.com/Pragmatists/employee-refactoring-kata.git
+[submodule "smelly-code-app"]
+	path = smelly-code-app
+	url = https://github.com/Pragmatists/smelly-code-app.git
